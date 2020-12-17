@@ -4,7 +4,8 @@ import "./styles.css";
 class About extends Component {
   state = {
     // Your required states here
-    zipcode: ""
+    zipcode: "",
+    firstName: "Aziz"
   };
   // Component did mount great if you want to get data before, but otherwise you can just make API call
 
